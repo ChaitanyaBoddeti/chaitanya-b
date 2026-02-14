@@ -1,7 +1,9 @@
 # Hi, I’m Chaitanya 👋
 
 Product Manager → AI-Native Builder  
-Shipping real products. Not just code.
+I turn product ideas into working systems.
+
+Shipping > Overthinking.
 
 ---
 
@@ -11,28 +13,38 @@ Shipping real products. Not just code.
 B2B business messaging platform  
 • Messaging infrastructure  
 • Secure File + Face Authorization  
-• E-sign (Falkon Doc)  
-• Integrations (Clio, Slack, Webex)
+• Falkon Doc (E-sign)  
+• Clio, Slack & Webex integrations  
+• Subscription & credit monetization systems  
 
 ---
 
 ### ⏸ Pause
-Digital discipline app designed to reduce unconscious app usage  
+Digital discipline app to reduce unconscious phone usage  
 • Intervention screens  
 • Behavioral friction design  
-• Experiment-driven improvements  
-• Built using Flutter
+• Onboarding optimization  
+• Flutter-based mobile app  
+
+---
+
+### 🎙 Shaadi Voice
+AI-powered personalized wedding voice experiences  
+• Custom voice messages for wedding events  
+• Shareable audio moments  
+• AI voice generation workflows  
+• Built as an experimental AI-first product  
 
 ---
 
 ## 🧠 What I Care About
 
-• Product thinking over feature shipping  
+• Product thinking before feature building  
 • AI-assisted development  
 • Rapid MVP validation  
-• Growth loops  
-• Monetization systems  
 • Subscription pricing models  
+• Growth & retention experiments  
+• Shipping real, usable systems  
 
 ---
 
@@ -51,22 +63,22 @@ Digital discipline app designed to reduce unconscious app usage
 ## 📈 Currently
 
 • Scaling Pause installs  
-• Improving onboarding retention  
-• Building AI-powered product workflows  
-• Learning LLM agents from scratch  
+• Expanding AI use in product workflows  
+• Experimenting with LLM agents  
+• Building monetizable micro-products  
 
 ---
 
 ## 🧩 Philosophy
 
 I don’t code everything from scratch.  
-I orchestrate AI to ship products faster.
+I orchestrate AI to ship faster.
 
-Shipping > Overthinking.
+Build. Ship. Learn. Repeat.
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Connect
 
 Twitter / X: (add link)  
 LinkedIn: (add link)
